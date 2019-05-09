@@ -3,8 +3,7 @@
     <keyboard-shortcut first-keystroke="ctrl y" />
   </action>
   <action id="CloseActiveTab" />
-  <action id="CloseContent" />
-  <action id="CloseEditor">
+  <action id="CloseContent">
     <keyboard-shortcut first-keystroke="ctrl w" />
   </action>
 </keymap>
