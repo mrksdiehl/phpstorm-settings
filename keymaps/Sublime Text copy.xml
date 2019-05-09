@@ -5,4 +5,8 @@
   <action id="CloseContent">
     <keyboard-shortcut first-keystroke="ctrl f4" />
   </action>
+  <action id="CloseActiveTab" />
+  <action id="CloseContent">
+    <keyboard-shortcut first-keystroke="ctrl w" />
+  </action>
 </keymap>
