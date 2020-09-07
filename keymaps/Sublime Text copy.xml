@@ -1,6 +1,0 @@
-<keymap version="1" name="Sublime Text copy" parent="Sublime Text">
-  <action id="CloseActiveTab" />
-  <action id="CloseContent">
-    <keyboard-shortcut first-keystroke="ctrl w" />
-  </action>
-</keymap>
