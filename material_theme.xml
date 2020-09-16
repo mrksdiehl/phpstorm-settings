@@ -1,9 +1,13 @@
 <application>
   <component name="MaterialThemeConfig">
+    <option name="compactStatusBar" value="true" />
+    <option name="contrastMode" value="true" />
     <option name="isCompactStatusBar" value="true" />
     <option name="isContrastMode" value="true" />
     <option name="isWizardShown" value="true" />
+    <option name="accentColor" value="63a9f1" />
+    <option name="selectedTheme" value="NATIVE" />
     <option name="userId" value="-1d0a9e5c:16d73f5f90d:-8000" />
-    <option name="version" value="4.5.2" />
+    <option name="version" value="5.2.0" />
   </component>
 </application>
